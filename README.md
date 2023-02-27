@@ -24,11 +24,12 @@ const cmtchuong = {
             js: ["ReactJS", "NextJS"],
             css: ["Boostrap", "MaterialUI", "Antd", "Tailwind"]
         },
-        devOps: ["AWS", "Docker🐳", "Kubernetes", "GCP"]
+        backEnd: ["NodeJS", "ExpressJS"],
+        automationTest: ["Selenium", "Cypress", "NUnit", "RestSharp", "SpecFlow", "Cucumber"],
         misc: ["WooCommerce", "WordPress"]
     },
  
-    currentFocus: "Digging more in FE and also learning BE and DevOps",
+    currentFocus: "Digging more in FE and also learning more about BE and DevOps",
     funFact: "The best code is no code at all"
 };
 
