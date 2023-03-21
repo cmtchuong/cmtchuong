@@ -1,7 +1,7 @@
 <h2><img src="https://media.giphy.com/media/fU4rqm0AHZtqGED9m4/giphy.gif" width="30"/> Hello World, I'm Chương <img src="https://media.giphy.com/media/fU4rqm0AHZtqGED9m4/giphy.gif" width="30"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>I am currently pushing Bachelor's Degree at University of Information Technology - UIT (VNUHCM)</em></p>
-<p><em>Front end Developer, inquisitive about React Native, Flutter, VueJS, NodeJS, GraphQL, DevOps and Golang <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Front-end Developer and Automation Testing Engineer, inquisitive about React Native, Flutter, VueJS, NodeJS, GraphQL, DevOps and Golang <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
